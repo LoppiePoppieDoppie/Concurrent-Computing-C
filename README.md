@@ -1,2 +1,2 @@
-# Concurrent-Computing on C++
+# Concurrent-Computing-on-C++
 HSE homework
