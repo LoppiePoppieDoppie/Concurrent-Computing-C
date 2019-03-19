@@ -1,2 +1,5 @@
 # Concurrent-Computing-on-C++
-HSE homework
+HSE homework:
+- CUDA
+- OpenMP
+- MPI
